@@ -54,3 +54,5 @@ user2.accNo = 143
 
 console.log(user1)
 console.log(user2)
+console.log(user2)
+// Here user1 one and user2 take the refferenc of same data 
